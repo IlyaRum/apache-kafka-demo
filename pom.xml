@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>my.example</groupId>
-    <artifactId>spring-kafka-demo</artifactId>
+    <artifactId>apache-kafka-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-kafka-demo</name>
-    <description>spring-kafka-demo</description>
+    <name>apache-kafka-demo</name>
+    <description>apache-kafka-demo</description>
     <url/>
     <licenses>
         <license/>
